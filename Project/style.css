@@ -1,0 +1,23 @@
+body{
+    background-image: url(./background.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+}
+div>a{
+    font-size: 24px;
+    color: black;
+}
+footer>p{
+    text-align: center;
+    font-size: 18px;
+}
+footer{
+    background-color: skyblue;
+}
+footer>p{
+    text-align: center;
+    font-size: 18px;
+}
